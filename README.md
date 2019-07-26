@@ -7,5 +7,7 @@ On the other hand, the file LSTMN_EEG.py contains a LSTM Network able to differe
 References:
 
 [1] https://github.com/biopatrec/biopatrec/wiki/Data_Repository.md
+
 [2] https://github.com/Cerebro409/EEG-Classification-Using-Recurrent-Neural-Network
+
 [3] https://ucmerced.box.com/s/m8tpshib6zztio9q34h9fh9ikhhl4a3m
